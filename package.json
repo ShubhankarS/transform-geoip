@@ -1,0 +1,14 @@
+{
+  "name": "transform-geoip",
+  "version": "1.0.0",
+  "description": "Transform dataset of cidr blocks into ip range to import into a database",
+  "main": "transform.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ShubhankarS",
+  "license": "MIT",
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}

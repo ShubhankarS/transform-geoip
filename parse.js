@@ -42,5 +42,3 @@ exports.decToIp = function(dec) {
 	}
 	return decoded.reverse().join(".");
 }
-
-console.log(this.ipToDec("106.51.232.79"))

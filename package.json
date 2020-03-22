@@ -2,6 +2,10 @@
   "name": "transform-geoip",
   "version": "1.0.0",
   "description": "Transform dataset of cidr blocks into ip range to import into a database",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ShubhankarS/transform-geoip.git"
+  },
   "main": "transform.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
